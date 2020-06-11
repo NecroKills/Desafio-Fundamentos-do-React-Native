@@ -9,6 +9,5 @@ react-native-vector-icons;
 json-server; 
 Context API.
 
-<a href="https://ibb.co/Zf6mVMk"><img src="https://i.ibb.co/D1DptRS/1.png" alt="1" border="0"></a>
-<a href="https://ibb.co/3BnMGqC"><img src="https://i.ibb.co/NZMmQPy/2.png" alt="2" border="0"></a>
-<a href="https://ibb.co/0QMfkpX"><img src="https://i.ibb.co/QXN6Z7c/3.png" alt="3" border="0"></a>
+<a href="https://ibb.co/J7jGGWK"><img src="https://i.ibb.co/VSYzz0t/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
+<a href="https://ibb.co/h7LMBfK"><img src="https://i.ibb.co/r7FtxsZ/Screenshot-2.png" alt="Screenshot-2" border="0"></a>
